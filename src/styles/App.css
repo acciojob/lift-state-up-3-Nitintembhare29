@@ -1,1 +1,10 @@
-
+#root{
+    background-color: green;
+    padding: 10px
+}
+.child1{
+    background-color: orange;
+}
+.child2{
+    background-color: yellow;
+}
